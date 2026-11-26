@@ -77,50 +77,6 @@ StudentHubb/
 └── README.md
 ```
 
----
-
-## Installation and Setup
-
-### 1. Clone the Repository
-
-```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-```
-
-### 2. Open the Project
-
-Open the cloned project using IntelliJ IDEA or your preferred Java IDE.
-
-### 3. Configure the Database
-
-Update the database configuration in:
-
-`src/main/resources/application.properties`
-
-Configure your database URL, username, and password.
-
-### 4. Install Dependencies
-
-Use Maven to install the required dependencies.
-
-```bash
-mvn clean install
-```
-
-### 5. Run the Application
-
-Run the main Spring Boot application class from your IDE.
-
-Or use:
-
-```bash
-mvn spring-boot:run
-```
-
-The application will start on the configured server port.
-
----
-
 ## 🧪 API Testing
 
 The REST APIs can be tested using **Postman**.

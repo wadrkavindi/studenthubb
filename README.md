@@ -77,7 +77,7 @@ StudentHubb/
 └── README.md
 ```
 
-## 🧪 API Testing
+## API Testing
 
 The REST APIs can be tested using **Postman**.
 
@@ -91,7 +91,7 @@ Test the available endpoints for:
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Develop a student management system using Spring Boot.
 - Implement RESTful API development.
